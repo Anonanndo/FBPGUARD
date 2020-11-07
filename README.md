@@ -1,9 +1,13 @@
 # FBPGUARD
 Fb profil védelem by: Anonanndo 
 
-$ CARA INSTALL DAN MENJALANKAN TOOL
+CARA INSTALL DAN MENJALANKAN TOOL
+
+use:
 
 $ termux-setup-storage
+
+$ apt update && apt upgrade
 
 $ pkg install php
 
